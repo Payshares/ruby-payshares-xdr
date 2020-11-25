@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Scott Fleckenstein"]
   spec.email         = ["scott@stellar.org"]
   spec.summary       = %q{XDR Helper Library}
-  spec.homepage      = "https://github.com/stellar/ruby-xdr"
+  spec.homepage      = "https://github.com/payshares/ruby-xdr"
   spec.license       = "Apache 2.0"
 
   spec.files         = `git ls-files -z`.split("\x0")
