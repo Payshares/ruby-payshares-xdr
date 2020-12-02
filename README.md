@@ -1,4 +1,5 @@
 # Payshares XDR, for Ruby
+[![Build Status](https://travis-ci.org/payshares/ruby-payshares-xdr.svg)](https://travis-ci.org/payshares/ruby-payshares-xdr)
 
 Payshares XDR is an open data format, specified in [RFC 4506](http://tools.ietf.org/html/rfc4506.html).  This library provides a way to read and write XDR data from ruby.  It can read/write all of the primitive XDR types and also provides facilities to define readers for the compound XDR types (enums, structs and unions)
 
